@@ -1,7 +1,10 @@
 # Adaptyv Bio Protein Design competition
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
 
-:: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/)
+&nbsp;
+
+:: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
+:: 👀 [EGFR Binders (Round2)](https://foundry.adaptyvbio.com/egfr_design_competition_2)
 
 ![design img by hgbrian/pdb2png](./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png)
 :: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
@@ -81,7 +84,7 @@ For those new to protein binder design, I recommend checking out the starred (�
 - [Anthony Gitter@anthonygitter shared additional wet validation results](https://twitter.com/anthonygitter/status/1848768548480393298?s=61&t=fwFHyeIlZimZW-ZsykLabA)
 - [Martin Pacesa@MartinPacesa disucuss round2 competition metrics](https://twitter.com/martinpacesa/status/1851628857792528889?s=61&t=vDTBRNVawlO1Fol8ICoJkA)
 
-## Adaptyv Bio
+### Adaptyv Bio
 - GitHub Repo
     - [Round-1 Results](https://github.com/adaptyvbio/egfr_competition_1)
     - [Round-2 competition metrics](https://github.com/adaptyvbio/competition_metrics)
@@ -90,14 +93,14 @@ For those new to protein binder design, I recommend checking out the starred (�
     - [Protein Optimization 102: Lessons from the protein design competition](https://www.adaptyvbio.com/blog/po102)
     - [Case Study: Benchmarking RFdiffusion generated binders for IL-7Ra](https://www.adaptyvbio.com/blog/rfdiff_il7ra)
 
-## Computational Resources
+### Computational Resources
 - [Modal](https://modal.com/)
 - [Google Colaboratory](https://colab.google/)
 - [KOUKARYOKU DOK](https://www.sakura.ad.jp/koukaryoku-dok/)
 - [Lambda GPU Cloud](https://lambdalabs.com/)
 - AWS, Azure, GCP (expensive)
 
-### Other Information
+#### Other Information
 - [⭐️ Sequences from Adaptyv Bio’s EGFR Protein Design Competition](https://github.com/agitter/adaptyvbio-egfr)
 - [⭐️ Brian Naugthon shared various binder design methods](http://blog.booleanbiotech.com/adaptyv-binder-design-competition.html)
 - [Five protein-design questions that still challenge AI (Nature)](https://www.nature.com/articles/d41586-024-03595-9)
