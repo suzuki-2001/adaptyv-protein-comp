@@ -1,6 +1,7 @@
 # Adaptyv Bio Protein Design competition
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
 
+This GitHub repository contains designs and their evaluations created during EGFR binder design at Adaptyv Bio. Additionally, I'm sharing some useful software and blogs that were helpful during the competition.
 &nbsp;
 
 :: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
