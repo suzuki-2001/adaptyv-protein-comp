@@ -6,7 +6,8 @@
 :: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
 :: 👀 [EGFR Binders (Round2)](https://foundry.adaptyvbio.com/egfr_design_competition_2)
 
-![design img by hgbrian/pdb2png](./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png)
+<img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="500" alt="design img by hgbrian/pdb2png">
+
 :: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
 
 ## Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
@@ -30,7 +31,9 @@ While AlphaFold3 limits submissions to 20 jobs per day, this was sufficient for 
 
 ## submission
 ```
-📊 two-stage screening (colabfold + alphafold3, AF2 ipTM 0.89~0.93 → AF3 ipTM 0.89~0.93)
+📊 two-stage screening 
+(colabfold + alphafold3, AF2 ipTM 0.89~0.93 → AF3 ipTM 0.89~0.93)
+
 - EGFR_l114_s689302_mpnn1_model1
 - EGFR_l137_s922133_mpnn6_model2
 - EGFR_l147_s449248_mpnn1_model2
@@ -40,20 +43,31 @@ While AlphaFold3 limits submissions to 20 jobs per day, this was sufficient for 
 - EGFR_l84_s528582_mpnn7_model1
 - EGFR_l88_s11832_mpnn1_model2
 
-📊　only ColabFold (Alphafold2 + MMseqs2) screening (AF2 ipTM 0.91~0.93 → AF3 ipTM 0.82~0.85)
+
+---
+
+📊 only ColabFold (Alphafold2 + MMseqs2) screening 
+(AF2 ipTM 0.91~0.93 → AF3 ipTM 0.82~0.85)
+
 - EGFR_l61_s456546_mpnn1_model1
 - EGFR_l62_s814650_mpnn14_model1
 
+---
+
 📊 wet validation (3 designs are selected)
+
 - EGFR_l61_s456546_mpnn1_model1
 - EGFR_l110_s478327_mpnn7_model2
 - EGFR_l88_s11832_mpnn1_model2
 ```
 
-All my designs (BindCraft) and their evaluation results can be accessed at:
+&nbsp;
+
+All my designs (BindCraft) and their evaluation results can be accessed at:\
 https://wdmr2dwp.nocodb.com/#/nc/view/48433702-4717-474f-8c66-49846d71e4b8
 
-![my designs score](./md/designs_joint.png)
+<img src="./md/designs_joint.png" width="500" alt="my designs score">
+
 :: Overview of all my designs and their integrated scores (iPAE, ipTM, and ESM2 log-likelihood).
 
 ## Useful Resources
@@ -77,6 +91,9 @@ For those new to protein binder design, I recommend checking out the starred (�
     - [ESM-2, Evolutionary Scale Modeling](https://github.com/facebookresearch/esm)
     - [TAPE, Tasks Assessing Protein Embeddings](https://github.com/songlab-cal/tape)
     - [ProteinBERT, pre-trained by ~106M UniRef90 proteins](https://github.com/nadavbra/protein_bert)
+- Competition Results
+    - [Anthony Gitter's repo, sequences and additional screening data](https://github.com/agitter/adaptyvbio-egfr)
+
 
 ### Twitter
 - [Jude Wells@_judewells Chai1 optimization](https://twitter.com/_judewells/status/1853805775807758465?s=61&t=QEKbzc4Q_MQOGNrv2bbejg)
