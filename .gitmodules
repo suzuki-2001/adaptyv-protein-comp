@@ -1,0 +1,6 @@
+[submodule "competition_metrics"]
+	path = competition_metrics
+	url = https://github.com/adaptyvbio/competition_metrics.git
+[submodule "pdb2png"]
+	path = pdb2png
+	url = https://github.com/hgbrian/pdb2png.git
