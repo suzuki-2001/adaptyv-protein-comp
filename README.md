@@ -1,4 +1,4 @@
-# Adaptyv Bio Protein Design competition
+## Adaptyv Bio Protein Design competition
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
 
 This GitHub repository contains designs and their evaluations created during EGFR binder design at Adaptyv Bio. Additionally, I'm sharing some useful software and blogs that were helpful during the competition.
@@ -11,7 +11,7 @@ This GitHub repository contains designs and their evaluations created during EGF
 
 :: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
 
-## Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
+### Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
 I generated over 350 de novo designs using BindCraft, and RSO(corey's biomodal implementation). 
 For the BindCraft designs, I explored various conditions, including targeting different regions of Domain III and generating designs without specified hotspots.
 The designs underwent a two-stage screening process using ColabFold and the AlphaFold3 server. 
@@ -30,7 +30,7 @@ Although AlphaFold3 is not currently open-source, making this analysis somewhat 
 Consequently, designs showing strong scores in both ColabFold and AlphaFold3 may indicate greater stability and binding potential.
 While AlphaFold3 limits submissions to 20 jobs per day, this was sufficient for conducting two-stage screening (except for EGFR_l61_s456546_mpnn1_model1 and EGFR_l62_s814650_mpnn14_model1).
 
-## submission
+### submission
 ```
 📊 two-stage screening 
 (colabfold + alphafold3, AF2 ipTM 0.89~0.93 → AF3 ipTM 0.89~0.93)
