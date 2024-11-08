@@ -1,10 +1,10 @@
 # Adaptyv Bio Protein Design competition
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
-***
-👀 [**Competition home**](https://design.adaptyvbio.com/)
+
+:: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/)
 
 ![design img by hgbrian/pdb2png](./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png)
-> submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
+:: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
 
 ## Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
 I generated over 350 de novo designs using BindCraft, and RSO(corey's biomodal implementation). 
@@ -50,8 +50,8 @@ While AlphaFold3 limits submissions to 20 jobs per day, this was sufficient for 
 All my designs (BindCraft) and their evaluation results can be accessed at:
 https://wdmr2dwp.nocodb.com/#/nc/view/48433702-4717-474f-8c66-49846d71e4b8
 
-![my designs score](./md/desins_joint.png)
-> Overview of all my designs and their integrated scores (iPAE, ipTM, and ESM2 log-likelihood).
+![my designs score](./md/designs_joint.png)
+:: Overview of all my designs and their integrated scores (iPAE, ipTM, and ESM2 log-likelihood).
 
 ## Useful Resources
 Here is helpful information about Adaptyv Bio's protein design competition and protein design in general.
