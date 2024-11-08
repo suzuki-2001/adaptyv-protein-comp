@@ -117,7 +117,7 @@ For those new to protein binder design, I recommend checking out the starred (�
 - [Lambda GPU Cloud](https://lambdalabs.com/)
 - AWS, Azure, GCP (expensive)
 
-#### Other Information
+### Other Information
 - [⭐️ Sequences from Adaptyv Bio’s EGFR Protein Design Competition](https://github.com/agitter/adaptyvbio-egfr)
 - [⭐️ Brian Naugthon shared various binder design methods](http://blog.booleanbiotech.com/adaptyv-binder-design-competition.html)
 - [Five protein-design questions that still challenge AI (Nature)](https://www.nature.com/articles/d41586-024-03595-9)
