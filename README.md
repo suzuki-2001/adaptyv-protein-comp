@@ -5,11 +5,17 @@ This GitHub repository contains designs and their evaluations created during EGF
 &nbsp;
 
 :: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
-:: 👀 [EGFR Binders (Round2)](https://foundry.adaptyvbio.com/egfr_design_competition_2)
+:: 👀 [EGFR Binders (Round2)](https://foundry.adaptyvbio.com/egfr_design_competition_2) \
+:: 👀 [All Results by AdaptyvBio](https://foundry.adaptyvbio.com/competition) \
+:: 👀 [My Bind Design](https://foundry.adaptyvbio.com/competition?design=b8d404ba-d5c2-4860-a5c3-fcc8ba56a29a)
 
-<img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="500" alt="design img by hgbrian/pdb2png">
 
-:: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png)
+<div style="display: flex;">
+  <img src="./md/binder_results.png" width="400" />
+  <img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="400" />
+</div>
+
+:: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png), (left: visualization of EGFR_ECOD_l110_s478327_mpnn7_model2, right: EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redults)
 
 ### Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
 I generated over 350 de novo designs using BindCraft, and RSO(corey's biomodal implementation). 
@@ -29,6 +35,8 @@ Designs that score well in both systems have passed two different types of evalu
 Although AlphaFold3 is not currently open-source, making this analysis somewhat speculative, if Figures 1-3 in the AlphaFold3 paper are accurate, it would be excellent for evaluating de novo designs. 
 Consequently, designs showing strong scores in both ColabFold and AlphaFold3 may indicate greater stability and binding potential.
 While AlphaFold3 limits submissions to 20 jobs per day, this was sufficient for conducting two-stage screening (except for EGFR_l61_s456546_mpnn1_model1 and EGFR_l62_s814650_mpnn14_model1).
+
+Note: AlphaFold3 inference source code is currently opened [here](https://github.com/google-deepmind/alphafold3).
 
 ### submission
 ```
@@ -104,6 +112,7 @@ For those new to protein binder design, I recommend checking out the starred (�
 - [Anthony Gitter@anthonygitter shared additional wet validation results](https://twitter.com/anthonygitter/status/1848768548480393298?s=61&t=fwFHyeIlZimZW-ZsykLabA)
 - [Martin Pacesa@MartinPacesa disucuss round2 competition metrics](https://twitter.com/martinpacesa/status/1851628857792528889?s=61&t=vDTBRNVawlO1Fol8ICoJkA)
 
+
 ### Adaptyv Bio
 - GitHub Repo
     - [Round-1 Results](https://github.com/adaptyvbio/egfr_competition_1)
@@ -112,6 +121,7 @@ For those new to protein binder design, I recommend checking out the starred (�
     - [Protein Optimization 101: Insights from the literature](https://www.adaptyvbio.com/blog/po101)
     - [Protein Optimization 102: Lessons from the protein design competition](https://www.adaptyvbio.com/blog/po102)
     - [Case Study: Benchmarking RFdiffusion generated binders for IL-7Ra](https://www.adaptyvbio.com/blog/rfdiff_il7ra)
+
 
 ### Computational Resources
 - [Modal](https://modal.com/)
