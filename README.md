@@ -2,6 +2,10 @@
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
 
 This GitHub repository contains designs and their evaluations created during EGFR binder design at Adaptyv Bio. Additionally, I'm sharing some useful software and blogs that were helpful during the competition.
+
+<img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="350" alt="design img by hgbrian/pdb2png">
+:: Submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png), visualization of EGFR_ECOD_l110_s478327_mpnn7_model2
+
 &nbsp;
 
 :: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
@@ -9,13 +13,13 @@ This GitHub repository contains designs and their evaluations created during EGF
 :: 👀 [All Results by AdaptyvBio](https://foundry.adaptyvbio.com/competition) \
 :: 👀 [My Bind Design](https://foundry.adaptyvbio.com/competition?design=b8d404ba-d5c2-4860-a5c3-fcc8ba56a29a)
 
+&nbsp;
 
-<div style="display: flex;">
-  <img src="./md/binder_results.png" width="400" />
-  <img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="400" />
-</div>
+<img src="./md/binder_results.png" alt="design img by hgbrian/pdb2png">
 
-:: submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png), (left: visualization of EGFR_ECOD_l110_s478327_mpnn7_model2, right: EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redults)
+:: EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redslts
+
+&nbsp;
 
 ### Two-Stage Screening considering different archtectures between AlphaFold2 and AlphaFold3 in De Novo Design
 I generated over 350 de novo designs using BindCraft, and RSO(corey's biomodal implementation). 
