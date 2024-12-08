@@ -103,6 +103,7 @@ For those new to protein binder design, I recommend checking out the starred (�
     - [biomodals, bioinformatics tools running on modal](https://github.com/hgbrian/biomodals)
     - [RSO, coreyhowe999's modal implementation](https://github.com/coreyhowe999/RSO)
     - [chai-1, SOTA model for biomolecular structure prediction ](https://github.com/chaidiscovery/chai-lab)
+    - [Boltz-1: Democratizing Biomolecular Interaction Modeling](https://github.com/jwohlwend/boltz)
     - [ESM-3, frontier generative model for biology](https://github.com/evolutionaryscale/esm)
     - [ESM-2, Evolutionary Scale Modeling](https://github.com/facebookresearch/esm)
     - [⭐️ ColabFold, Making Protein folding accessible to all!](https://github.com/sokrypton/ColabFold)
@@ -132,6 +133,7 @@ For those new to protein binder design, I recommend checking out the starred (�
 - ⭐️ Official Blog
     - [Protein Optimization 101: Insights from the literature](https://www.adaptyvbio.com/blog/po101)
     - [Protein Optimization 102: Lessons from the protein design competition](https://www.adaptyvbio.com/blog/po102)
+    - [Protein Optimization 103: Racing to the Top 100](https://www.adaptyvbio.com/blog/po103)
     - [Case Study: Benchmarking RFdiffusion generated binders for IL-7Ra](https://www.adaptyvbio.com/blog/rfdiff_il7ra)
 
 
