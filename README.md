@@ -23,7 +23,7 @@ This GitHub repository contains designs and their evaluations created during EGF
 ## My Results
 <img src="./md/binder_results.png" alt="design img by hgbrian/pdb2png">
 
-- EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redslts
+- EGFR_l88_s11832_mpnn1_model2 AdaptyvBio results
 
 &nbsp;
 
@@ -142,7 +142,6 @@ For those new to protein binder design, I recommend checking out the starred (�
 - [Google Colaboratory](https://colab.google/)
 - [KOUKARYOKU DOK](https://www.sakura.ad.jp/koukaryoku-dok/)
 - [Lambda GPU Cloud](https://lambdalabs.com/)
-- AWS, Azure, GCP (expensive)
 
 ### Other Information
 - [⭐️ Sequences from Adaptyv Bio’s EGFR Protein Design Competition](https://github.com/agitter/adaptyvbio-egfr)
