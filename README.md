@@ -1,12 +1,17 @@
-## Adaptyv Bio Protein Design competition
+### Adaptyv Bio Protein Design competition
 <img src="https://img.shields.io/badge/update-2024%2F11%2F08-blue">
 
 This GitHub repository contains designs and their evaluations created during EGFR binder design at Adaptyv Bio. Additionally, I'm sharing some useful software and blogs that were helpful during the competition.
 
-<img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="350" alt="design img by hgbrian/pdb2png">
-:: Submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png), visualization of EGFR_ECOD_l110_s478327_mpnn7_model2
+<p align="center">
+  <img src="./md/EGFR_ECOD_l110_s478327_mpnn7_model2.png" width="500" alt="design img by hgbrian/pdb2png">
+</p>
+
+- Submit and wet validation design visualized by [hgbrian/pdb2png](https://github.com/hgbrian/pdb2png), visualization of EGFR_ECOD_l110_s478327_mpnn7_model2
 
 &nbsp;
+
+### AdaptyvBio Links
 
 :: 👀 [Adaptyv Bio Protein Design Competition home](https://design.adaptyvbio.com/) \
 :: 👀 [EGFR Binders (Round2)](https://foundry.adaptyvbio.com/egfr_design_competition_2) \
@@ -15,9 +20,10 @@ This GitHub repository contains designs and their evaluations created during EGF
 
 &nbsp;
 
+## My Results
 <img src="./md/binder_results.png" alt="design img by hgbrian/pdb2png">
 
-:: EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redslts
+- EGFR_l88_s11832_mpnn1_model2 AdaptyvBio redslts
 
 &nbsp;
 
