@@ -21,7 +21,9 @@ This GitHub repository contains designs and their evaluations created during EGF
 &nbsp;
 
 ## My Results
-<img src="./md/binder_results.png" alt="design img by hgbrian/pdb2png">
+<p align="center">
+  <img src="./md/binder_results.png" width="500" alt="design img by hgbrian/pdb2png">
+</p>
 
 - EGFR_l88_s11832_mpnn1_model2 AdaptyvBio results
 
